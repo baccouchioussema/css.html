@@ -1,0 +1,36 @@
+body{
+
+    font-family:  'Roboto' , sans-serif;
+    background-color: lightslategray;
+}
+.title{
+    color: blue;
+}
+.title{
+    color: blue;
+}
+.one{
+    color: blue;
+}
+nav {background-color: rgba(0, 225,225,0.5);
+
+}
+.towe{
+    color: blue;
+}
+.zero {color: darkgreen;
+}
+nav li {
+    display:
+     inline;
+
+}
+
+nav ul  {
+    display: inline;
+}
+nav link {
+    text-decoration: none;
+    padding: 10px;
+    color: brown;
+}
